@@ -1,4 +1,4 @@
-This is a quick script designed to allow you to quickly deploy Magento setups.
+This is a quick script designed to allow you to quickly deploy Magento setups.  It was written to scrach a personal itch, but feature requests and bug reports are always welcome.
 
 There are some things I will be adding over time to make it even quicker but as it stands it will;
 
@@ -15,6 +15,8 @@ Set the persmissions on the script with something like sudo chmod u+x mkmagento.
 Call it with three parameters; username, password, magento version eg;
 
 ./mkmagento.sh superstoresite secretpassword123 1.4.1.0
+
+You can follow the progress of this script on my blog at - http://tosbourn.com/category/magento-auto-install/
 
 Cheers
 
